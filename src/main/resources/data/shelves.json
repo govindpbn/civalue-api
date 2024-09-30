@@ -1,0 +1,36 @@
+[
+  {
+    "shopperId": "S-100",
+    "shelf": [
+      {
+        "productId": "MB-20",
+        "relevanceyScore": 31.02
+      },
+      {
+        "productId": "BB-15",
+        "relevanceyScore": 51.65
+      },
+      {
+        "productId": "MB-30",
+        "relevanceyScore": 53.85
+      }
+    ]
+  },
+  {
+    "shopperId": "S-101",
+    "shelf": [
+      {
+        "productId": "MB-55",
+        "relevanceyScore": 20.05
+      },
+      {
+        "productId": "BB-35",
+        "relevanceyScore": 67.65
+      },
+      {
+        "productId": "MB-75",
+        "relevanceyScore": 11.08
+      }
+    ]
+  }
+]
